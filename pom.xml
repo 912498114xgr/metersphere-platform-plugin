@@ -14,6 +14,7 @@
         <module>metersphere-platform-plugin-sdk</module>
         <module>metersphere-jira-plugin</module>
         <module>metersphere-zentao-plugin</module>
+        <module>metershpere-fullgoal-plugin</module>
     </modules>
 
     <properties>

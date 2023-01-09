@@ -1,6 +1,5 @@
 package io.metersphere.platform.domain;
 
-import io.metersphere.base.domain.IssuesWithBLOBs;
 import lombok.Getter;
 import lombok.Setter;
 

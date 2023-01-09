@@ -1,6 +1,5 @@
 package io.metersphere.platform.api;
 
-import io.metersphere.base.domain.IssuesWithBLOBs;
 import io.metersphere.platform.domain.*;
 import org.springframework.http.ResponseEntity;
 
